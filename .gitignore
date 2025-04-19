@@ -5,6 +5,7 @@ Makefile
 
 # Build directory (generated files)
 build/
+managed_components/
 
 # IDE specific files
 .vscode/
