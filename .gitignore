@@ -1,0 +1,24 @@
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+# Build directory (generated files)
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# ESP-IDF tools (ESP-IDF itself)
+esp-idf/
+
+# Generated SDK config (config for environment)
+sdkconfig
+
+# Local configuration files (for your environment)
+*.conf
+
